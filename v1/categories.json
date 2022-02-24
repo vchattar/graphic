@@ -11,6 +11,6 @@
     {"title": "MAGAZINES", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/magazine.png?raw=true"},
     {"title": "POSTER", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/poster.png?raw=true"},
     {"title": "Photo Effect", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/photo-effect.png?raw=true"},
-    {"title": "T-SHIRTS", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/tshirt.png?raw=true"},
+    {"title": "T-SHIRTS", "file": "https://raw.githubusercontent.com/vchattar/graphic/main/v1/tshirt.json", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/tshirt.png?raw=true"},
     {"title": "ALBUM COVER", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/album-cover.png?raw=true"}
 ]
