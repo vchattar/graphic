@@ -7,7 +7,7 @@
     {"title": "BANNER", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/banner.png?raw=true"},
     {"title": "Digital Promote", "file": "https://raw.githubusercontent.com/vchattar/graphic/main/v1/digital.json", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/digital.png?raw=true"},
     {"title": "SOCIAL TEMPLATE", "file": "https://raw.githubusercontent.com/vchattar/graphic/main/v1/social.json", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/social.png?raw=true"},
-    {"title": "BOOK COVER", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/book.png?raw=true"},
+    {"title": "Flyers", "file": "https://raw.githubusercontent.com/vchattar/graphic/main/v1/flyer.json", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/flyer.png?raw=true"},
     {"title": "MAGAZINES", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/magazine.png?raw=true"},
     {"title": "POSTER", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/poster.png?raw=true"},
     {"title": "Photo Effect", "file": "https://raw.githubusercontent.com/vchattar/graphic/main/v1/photoeffect.json", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/photo-effect.png?raw=true"},
